@@ -8,4 +8,4 @@ ___
 uptudev/uptudev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I have a kitten named Princess Tiabeanie ("Bean") after the main character from the show Disenchantment. She gets jealous of my keyboard.
+I have a kitten named Bean after Princess Tiabeanie from *Disenchantment*. She gets jealous of my keyboard.
