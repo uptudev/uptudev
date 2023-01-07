@@ -9,3 +9,5 @@ uptudev/uptudev is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 I have a kitten named Bean after Princess Tiabeanie from *Disenchantment*. She gets jealous of my keyboard.
+
+![DSC_0053-2](https://user-images.githubusercontent.com/91502176/211142366-fc9d4b03-c626-48cd-b58d-de90267d0dbe.jpg)
