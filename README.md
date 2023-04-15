@@ -1,6 +1,6 @@
 Hi, I’m uptu.
 - I’m interested in learning languages that take years off my lifespan.
-- I’m currently learning C and C++ after years of being a crusty Java and C# dev, as well as sharpening my scripting in Python and JS/TypeScript.
+- I’m currently learning Rust after years of being a crusty Java and C# dev, as well as sharpening my scripting in Python and JS/TypeScript.
 - I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, and VS Code, so I may as well be a software engineer at this point 🗿.
 ___
 
