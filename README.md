@@ -7,17 +7,20 @@ I’m currently learning Rust and Zig after years of being a crusty Java and C# 
 I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, and VS Code, so I may as well be a software engineer at this point 🗿.
 ## Languages
 
-[![Assembly (x86_64)](https://img.shields.io/badge/assembly%20(x64)-black?style=for-the-badge&logo=AssemblyScript)](https://github.com/uptudev/rosetta/blob/main/Assembly%20(x86_64)/fibonacci.asm)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/uptudev/rosetta/blob/main/C/fibonacci.c)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/uptudev/rosetta/blob/main/C%2B%2B/fibonacci.cpp)
-[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/uptudev/rosetta/blob/main/C%23/fibonacci.cs)
-[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=eclipse)](https://github.com/uptudev/rosetta/blob/main/Java/src/Main.java)
-[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://github.com/uptudev/rosetta/blob/main/JavaScript/fibonacci.js)
-[![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)](https://github.com/uptudev/rosetta/blob/main/Lua/fibonacci.lua)
-[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/uptudev/rosetta/blob/main/Python/fibonacci.py)
-[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://github.com/uptudev/rosetta/blob/main/Rust/src/main.rs)
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)](https://github.com/uptudev/rosetta/blob/main/TypeScript/fibonacci.ts)
-[![Zig](https://img.shields.io/badge/Zig-black?style=for-the-badge&logo=Zig)](https://github.com/uptudev/rosetta/blob/main/Zig/src/main.zig)
+[![Assembly (x86_64)](https://img.shields.io/badge/assembly%20(x64)-black?style=for-the-badge&logo=AssemblyScript)](https://en.wikipedia.org/wiki/X86_assembly_language)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://www.iso.org/standard/74528.html)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)](https://www.w3.org/TR/CSS/#css)
+[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/)
+[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=eclipse)](https://www.java.com/en/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
+[![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)](http://www.lua.org/)
+[![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass)](https://sass-lang.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)](https://www.typescriptlang.org/)
+[![Zig](https://img.shields.io/badge/Zig-black?style=for-the-badge&logo=Zig)](https://ziglang.org/)
 
 ## Personal Dev/Creative Software Stack
 [![Ableton Live](https://img.shields.io/badge/Ableton%20Live-black?style=for-the-badge&logo=abletonlive)](https://www.ableton.com/en/live/)
