@@ -22,7 +22,7 @@ I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, a
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)](https://www.typescriptlang.org/)
 [![Zig](https://img.shields.io/badge/Zig-black?style=for-the-badge&logo=Zig)](https://ziglang.org/)
 
-## Personal Dev/Creative Software Stack
+## Software I Use
 [![Ableton Live](https://img.shields.io/badge/Ableton%20Live-black?style=for-the-badge&logo=abletonlive)](https://www.ableton.com/en/live/)
 [![Aseprite](https://img.shields.io/badge/Aseprite-black?style=for-the-badge&logo=aseprite)](https://www.aseprite.org/)
 [![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender)](https://www.blender.org/)
