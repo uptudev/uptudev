@@ -2,9 +2,9 @@
 
 I’m interested in learning languages that take years off my lifespan.
 
-I’m currently learning Rust and Zig after years of being a crusty Java and C# dev, as well as sharpening my scripting in JS/TypeScript and Python.
+I’m currently learning Rust and Zig after years of being a crusty Java and C# dev, as well as sharpening my scripting in JS/TypeScript and Python. I make Noita mods in Lua, and do game development in Rust using the Bevy framework. My website stack for [uptu.dev](https://uptu.dev/) can be found below.
 
-I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, and VS Code, so I may as well be a software engineer at this point 🗿.
+I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, and VS Code, so I may as well be a software engineer at this point 🗿. These days, I primarily use Neovim, but use IntelliJ when I need to do stuff with the JVM.
 ## Languages
 
 [![Assembly (x86_64)](https://img.shields.io/badge/assembly%20(x64)-black?style=for-the-badge&logo=AssemblyScript)](https://en.wikipedia.org/wiki/X86_assembly_language)
