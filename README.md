@@ -4,7 +4,7 @@
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)](https://www.w3.org/TR/CSS/#css)
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/)
-[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=eclipse)](https://www.java.com/en/)
+[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openJDK)](https://www.java.com/en/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)](http://www.lua.org/)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://www.python.org/)
@@ -21,7 +21,7 @@ I am also a musician with 17 years of experience playing guitar, bass, and synth
 
 I’m currently learning Rust and Zig as well as sharpening my scripting in JS/TypeScript and Python. I make Noita mods in Lua, and do game development in Rust using the Bevy framework. My website stack for [uptu.dev](https://uptu.dev/) can be found below.
 
-I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, and VS Code, so I may as well be a software engineer at this point 🗿. These days, I primarily use Neovim, but use IntelliJ when I need to do stuff with the JVM.
+I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, and VS Code, so I may as well be a software engineer at this point 🗿. These days, I primarily use Neovim, but use IntelliJ when I need to do stuff with Java or Kotlin.
 
 ## Software/Frameworks I Use
 [![Ableton Live](https://img.shields.io/badge/Ableton%20Live-black?style=for-the-badge&logo=abletonlive)](https://www.ableton.com/en/live/)
