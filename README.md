@@ -35,6 +35,7 @@ I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, a
 [![Neovim](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim)](https://neovim.io/)
 [![OpenSUSE](https://img.shields.io/badge/OpenSUSE-black?style=for-the-badge&logo=opensuse)](https://www.opensuse.org/)
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://react.dev/)
+[![Svelte](https://img.shields.io/badge/Svelte-black?style=for-the-badge&logo=svelte)](https://svelte.dev/)
 [![Vim](https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=Vim)](https://www.vim.org/)
 [![Vue 3](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://www.microsoft.com/en-us/windows)
