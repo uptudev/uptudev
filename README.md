@@ -21,7 +21,7 @@ I am also a musician with 17 years of experience playing guitar, bass, and synth
 
 I’m currently learning Rust and Zig as well as sharpening my scripting in JS/TypeScript and Python. I make Noita mods in Lua, and do game development in Rust using the Bevy framework. My website stack for [uptu.dev](https://uptu.dev/) can be found below.
 
-I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, and VS Code, so I may as well be a software engineer at this point 🗿. These days, I primarily use Neovim, but use IntelliJ when I need to do stuff with Java or Kotlin.
+I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, and VS Code, so I may as well be a software engineer at this point 🗿. These days, I primarily use Neovim, but use IntelliJ when I need to do stuff with the JVM, as I can't be bothered to install Java and Kotlin manually when IntelliJ handles that for me.
 
 ## Software/Frameworks I Use
 [![Ableton Live](https://img.shields.io/badge/Ableton%20Live-black?style=for-the-badge&logo=abletonlive)](https://www.ableton.com/en/live/)
