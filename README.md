@@ -46,6 +46,7 @@ I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, a
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/uptudev)
 [![Inkscape](https://img.shields.io/badge/Inkscape-black?style=for-the-badge&logo=inkscape)](https://inkscape.org/)
 [![Neovim](https://img.shields.io/badge/neovim-black?style=for-the-badge&logo=neovim)](https://neovim.io/)
+[![tmux](https://img.shields.io/badge/tmux-black?style=for-the-badge&logo=tmux)](https://github.com/tmux/tmux)
 [![Vim](https://img.shields.io/badge/Vim-black?style=for-the-badge&logo=Vim)](https://www.vim.org/)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://www.microsoft.com/en-us/windows)
 
