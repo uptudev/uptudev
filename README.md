@@ -40,6 +40,7 @@ I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, a
 [![Aseprite](https://img.shields.io/badge/Aseprite-black?style=for-the-badge&logo=aseprite)](https://www.aseprite.org/)
 [![Bevy](https://img.shields.io/badge/Bevy-black?style=for-the-badge&logo=twitter)](https://bevyengine.org/)
 [![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender)](https://www.blender.org/)
+[![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://www.docker.com)
 [![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=fedora)](https://www.fedoraproject.org/)
 [![GIMP](https://img.shields.io/badge/GIMP-black?style=for-the-badge&logo=gimp)](https://www.gimp.org/)
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
