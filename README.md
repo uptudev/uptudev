@@ -5,6 +5,7 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://www.iso.org/standard/74528.html)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://isocpp.org/)
 [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=rust)](https://www.rust-lang.org/)
+[![V](https://img.shields.io/badge/v-black?style=for-the-badge&logo=v)](https://vlang.io/)
 [![Zig](https://img.shields.io/badge/Zig-black?style=for-the-badge&logo=Zig)](https://ziglang.org/)
 
 #### Web Development
@@ -22,6 +23,7 @@
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openJDK)](https://www.java.com/en/)
 
 #### Scripting Languages
+[![sh](https://img.shields.io/badge/sh-black?style=for-the-badge&logo=gnubash)](https://www.gnu.org/software/bash/)
 [![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)](http://www.lua.org/)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 
