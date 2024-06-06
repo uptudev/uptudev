@@ -1,4 +1,16 @@
-## Programming Languages
+# Hi, I’m uptu.
+
+I'm a passionate developer with over a decade of coding experience as a hobbyist. I am primarily a systems programmer, but also dabble in frontend work now and then thanks to my prior experience tinkering with web development as a teen. My language of choice is Rust, which I have been using for the last few years, but I often find myself using C, V, or Zig depending on the task at hand (as they are all somewhat similar beyond their memory management schemata). Rust provides me with low-level control, clang-like LLVM compiling, WASM support, and the immensely useful borrow checker, making it a powerful language, but sometimes the raw efficiency of C pointers and V's garbage collection proves better for certain tasks; most file manipulation I do in V, for instance.
+
+I am also a musician with 19 years of experience playing guitar, bass, and synths. I started playing guitar at 6, bass at somewhere around 10 years old, and keyboards/synthesis at around 12 years old. While I tend to produce music in the Drum n' Bass and Jungle genres, I have made projects for pretty much any genre under the sun.
+
+I’m currently learning Rust, V, and Zig as well as sharpening my C skills. I also make Noita mods in Lua, so it's become my favourite language to write quick scripts in.
+
+I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, and VS Code, so I may as well be a software engineer at this point 🗿. These days, I primarily use Neovim, but use IntelliJ when I need to do stuff with the JVM, as I can't be bothered to install Java and Kotlin manually when IntelliJ handles that for me so easily.
+
+___
+
+### Programming Languages
 
 #### Systems Languages
 [![Assembly (x86_64)](https://img.shields.io/badge/assembly%20(x64)-black?style=for-the-badge&logo=AssemblyScript)](https://en.wikipedia.org/wiki/X86_assembly_language)
@@ -31,17 +43,8 @@
 [![Lua](https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua)](http://www.lua.org/)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 
-# Hi, I’m uptu.
 
-I'm a passionate developer with over a decade of coding experience as a hobbyist. I am primarily a systems programmer, but also dabble in frontend work now and then thanks to my prior experience tinkering with web development as a teen. My language of choice is Rust, which I have been using for the last few years, but I often find myself using C, V, or Zig depending on the task at hand (as they are all somewhat similar beyond their memory management schemata). Rust provides me with low-level control, clang-like LLVM compiling, WASM support, and the immensely useful borrow checker, making it a powerful language, but sometimes the raw efficiency of C pointers and V's garbage collection proves better for certain tasks; most file manipulation I do in V, for instance.
-
-I am also a musician with 19 years of experience playing guitar, bass, and synths. I started playing guitar at 6, bass at somewhere around 10 years old, and keyboards/synthesis at around 12 years old. While I tend to produce music in the Drum n' Bass and Jungle genres, I have made projects for pretty much any genre under the sun.
-
-I’m currently learning Rust, V, and Zig as well as sharpening my C skills. I also make Noita mods in Lua, so it's become my favourite language to write quick scripts in.
-
-I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, and VS Code, so I may as well be a software engineer at this point 🗿. These days, I primarily use Neovim, but use IntelliJ when I need to do stuff with the JVM, as I can't be bothered to install Java and Kotlin manually when IntelliJ handles that for me so easily.
-
-## Other Software/Frameworks I Use
+### Other Software/Frameworks I Use
 [![Ableton Live](https://img.shields.io/badge/Ableton%20Live-black?style=for-the-badge&logo=abletonlive)](https://www.ableton.com/en/live/)
 [![Aseprite](https://img.shields.io/badge/Aseprite-black?style=for-the-badge&logo=aseprite)](https://www.aseprite.org/)
 [![Bevy](https://img.shields.io/badge/Bevy-black?style=for-the-badge&logo=twitter)](https://bevyengine.org/)
