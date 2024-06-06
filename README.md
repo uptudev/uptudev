@@ -18,6 +18,10 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript)](https://www.typescriptlang.org/)
 [![Vue 3](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js)](https://vuejs.org/)
 
+#### Functional Languages
+[![Haskell](https://img.shields.io/badge/Haskell-black?style=for-the-badge&logo=haskell)](https://www.haskell.org/)
+[![OCaml](https://img.shields.io/badge/OCaml-black?style=for-the-badge&logo=ocaml)](https://ocaml.org/)
+
 #### OOP Languages
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openJDK)](https://www.java.com/en/)
