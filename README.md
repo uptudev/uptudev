@@ -47,7 +47,7 @@ ___
 ### Other Software/Frameworks I Use
 [![Ableton Live](https://img.shields.io/badge/Ableton%20Live-black?style=for-the-badge&logo=abletonlive)](https://www.ableton.com/en/live/)
 [![Aseprite](https://img.shields.io/badge/Aseprite-black?style=for-the-badge&logo=aseprite)](https://www.aseprite.org/)
-[![Bevy](https://img.shields.io/badge/Bevy-black?style=for-the-badge&logo=twitter)](https://bevyengine.org/)
+[![Bevy](https://img.shields.io/badge/Bevy-black?style=for-the-badge&logo=bevy)](https://bevyengine.org/)
 [![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender)](https://www.blender.org/)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://www.docker.com)
 [![Fedora](https://img.shields.io/badge/Fedora-black?style=for-the-badge&logo=fedora)](https://www.fedoraproject.org/)
