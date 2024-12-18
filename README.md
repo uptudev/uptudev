@@ -3,8 +3,6 @@
 
 I'm a passionate developer with over a decade of coding experience as a hobbyist. I am primarily a systems programmer, but also dabble in frontend work now and then thanks to my prior experience tinkering with web development as a teen. My language of choice is Rust, which I have been using for the last few years, but I often find myself using C, V, or Zig depending on the task at hand (as they are all somewhat similar beyond their memory management schemas). Rust provides me with low-level control, clang-like LLVM compiling, WASM support, and the immensely useful borrow checker, making it a powerful language, but sometimes the raw efficiency of C pointers and V's garbage collection proves better for certain tasks; most file manipulation I do in V, for instance.
 
-I am also a musician with 19 years of experience playing guitar, bass, and synths. I started playing guitar at 6, bass at somewhere around 10 years old, and keyboards/synthesis at around 12 years old. While I tend to produce music in the Drum n' Bass and Jungle genres, I have made projects for pretty much any genre under the sun.
-
 I’m currently learning Rust, V, and Zig as well as sharpening my C skills. I also make Noita mods in Lua, so it's become my favourite language to write quick scripts in.
 
 I also learned how to quit Vim after a decade of using Eclipse, Visual Studio, and VS Code, so I may as well be a software engineer at this point 🗿. These days, I primarily use Neovim, but use IntelliJ when I need to do stuff with the JVM, as I can't be bothered to install Java and Kotlin manually when IntelliJ handles that for me so easily.
