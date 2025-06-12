@@ -1,4 +1,5 @@
-# Hi, I’m uptu. [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/uptu) 
+# Hi, I’m uptu.
+ [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/uptu) 
 
 I'm a passionate developer with over a decade of coding experience as a hobbyist. I am primarily a systems programmer, but also dabble in frontend work now and then thanks to my prior experience tinkering with web development as a teen. My language of choice is Rust, which I have been using for the last few years, but I often find myself using C, V, or Zig depending on the task at hand (as they are all somewhat similar beyond their memory management schemas). Rust provides me with low-level control, clang-like LLVM compiling, WASM support, and the immensely useful borrow checker, making it a powerful language, but sometimes the raw efficiency of C pointers and V's garbage collection proves better for certain tasks; most file manipulation I do in V, for instance.
 
