@@ -51,5 +51,5 @@ ___
 ___
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uptudev&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=donut&show_icons=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=uptudev&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut&show_icons=true" />
 </p>
